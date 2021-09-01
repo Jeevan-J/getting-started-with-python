@@ -34,6 +34,8 @@ Some Links on Applications of Python:
 
 - [Basics](https://github.com/Jeevan-J/getting-started-with-python/blob/main/Basics.md)
 - [Web Development Frameworks]()
+- [Data Analysis and Visualization]()
+- [Machine Learning and AI]()
 
 
 MORE TO COME.........
