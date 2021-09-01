@@ -25,6 +25,10 @@ For any programming language, it is required to have knowledge on Data Structure
 <hr/>
 
 Assuming that you have gained a good exposure on basics of python and working with python, let's now start learning about some core python libraries.
+- Jupyter Lab and Notebook
+  - <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/YouTube.png" width=20> [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=HW29067qVWk)
+  - <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/YouTube.png" width=20> [Jupyter Lab Tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY)
+  - <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/YouTube.png" width=20> [How to use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU)
 - Numpy and Pandas
   - <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/YouTube.png" width=20> [Numpy Tutorial](https://www.youtube.com/watch?v=8JfDAm9y_7s)
   - <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/YouTube.png" width=20> [Numpy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
