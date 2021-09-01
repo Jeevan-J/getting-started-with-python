@@ -30,5 +30,10 @@ Some Links on Applications of Python:
 - https://www.youtube.com/watch?v=_u2HRottdeo
 <hr/>
 
+## TOPICS
+
+- [Basics](https://github.com/Jeevan-J/getting-started-with-python/blob/main/Basics.md)
+- [Web Development Frameworks]()
+
 
 MORE TO COME.........
